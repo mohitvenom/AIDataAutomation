@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+playwright
+beautifulsoup4
+google-generativeai

@@ -1,0 +1,126 @@
+[
+    {
+        "url": "https://www.ubuy.co.in/product/165YIWI6Q-boost-mobile-motorola-moto-e6-16gb-prepaid-smartphone",
+        "error": "Scraping error: HTTPSConnectionPool(host='www.ubuy.co.in', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+        "url": "https://www.ubuy.co.in/product/7PENLL8K2-boost-mobile-moto-g-5g",
+        "guide": {
+            "url": "https://www.ubuy.co.in/product/7PENLL8K2-boost-mobile-moto-g-5g",
+            "productTitle": "Upgrade to Superfast Speed with Boost Mobile Moto G 5G",
+            "productOverview": "The Boost Mobile Moto G 5G offers a compelling combination of speed, features, and affordability, making it a strong contender in the mid-range smartphone market. It's designed to provide a seamless 5G experience.",
+            "keySpecifications": {
+                "display": "6.7-inch display",
+                "processor": "Qualcomm Snapdragon processor",
+                "storage": "Varies by configuration (e.g., 64GB or 128GB)",
+                "RAM": "Varies by configuration (e.g., 4GB or 6GB)",
+                "camera": "48MP main camera, multiple lens configuration",
+                "battery": "5000mAh battery",
+                "operatingSystem": "Android",
+                "price": "INR 14731"
+            },
+            "targetAudience": "Users looking for a budget-friendly 5G smartphone with a large display and decent performance. Suitable for students, young professionals, and anyone seeking a modern smartphone experience without breaking the bank.",
+            "prosAndCons": {
+                "pros": [
+                    "Affordable 5G connectivity",
+                    "Large display for media consumption",
+                    "Long battery life",
+                    "Good camera performance for its price point",
+                    "Reliable build quality"
+                ],
+                "cons": [
+                    "May lack some high-end features found in more expensive phones",
+                    "Plastic build",
+                    "Performance may not be as snappy as premium devices in some intensive tasks"
+                ]
+            },
+            "useCases": [
+                "Daily communication (calls, texts, emails)",
+                "Social media browsing",
+                "Media consumption (streaming videos, listening to music)",
+                "Mobile gaming (casual games)",
+                "Web browsing and general productivity"
+            ],
+            "valueForMoney": "The Boost Mobile Moto G 5G offers excellent value for money, providing a feature-rich 5G experience at a competitive price. It provides a very good balance of performance and features for the price.",
+            "buyingRecommendation": "Recommended for users prioritizing 5G connectivity, a large display, and long battery life on a budget. It's a solid choice for those seeking a reliable and functional smartphone.",
+            "alternativeOptions": [
+                {
+                    "name": "Samsung Galaxy A Series",
+                    "reason": "Offers similar features and performance with a slightly different design and brand preference.",
+                    "considerations": "Consider if you prefer Samsung's software experience and ecosystem."
+                },
+                {
+                    "name": "Xiaomi Redmi Note Series",
+                    "reason": "Another strong contender in the budget-friendly 5G smartphone market.",
+                    "considerations": "Offers competitive specs and performance; consider based on brand preference and software customization."
+                },
+                {
+                    "name": "Motorola Moto G Power series",
+                    "reason": "Focuses primarily on battery life as a key differentiating factor.",
+                    "considerations": "Choose if you prioritize extended battery life over certain display or camera features."
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://www.ubuy.co.in/product/QW3PVF9O8-air-fryer-5qt-convection-oven-oiless-fryer",
+        "guide": {
+            "url": "https://www.ubuy.co.in/product/QW3PVF9O8-air-fryer-5qt-convection-oven-oiless-fryer",
+            "productTitle": "Air Fryer 5qt Convection Oven Oiless Fryer",
+            "productOverview": "An air fryer that uses convection technology to cook food with little to no oil, offering a healthier alternative to traditional frying. This 5-quart model is suitable for small to medium-sized families.",
+            "keySpecifications": {
+                "capacity": "5 quarts",
+                "cookingMethod": "Convection (Oil-less frying)",
+                "powerConsumption": "Varies by model, check product specifications",
+                "temperatureRange": "Typically 170°F to 400°F (77°C to 204°C), check product specifications",
+                "timer": "Integrated timer",
+                "digitalDisplay": "Potentially includes a digital display",
+                "preSetPrograms": "May include preset cooking programs for common foods",
+                "price": "INR 8355"
+            },
+            "targetAudience": "Health-conscious individuals and families looking for a convenient and healthier way to prepare fried foods. Suitable for those with limited kitchen space.",
+            "prosAndCons": {
+                "pros": [
+                    "Healthier cooking option (reduces oil consumption)",
+                    "Convenient and easy to use",
+                    "Faster cooking times compared to conventional ovens",
+                    "Versatile: can cook a variety of foods",
+                    "Easy to clean"
+                ],
+                "cons": [
+                    "Smaller capacity compared to a full-size oven",
+                    "May not produce the exact texture of deep-fried foods",
+                    "Cooking capacity limitations based on size",
+                    "Some models can be noisy",
+                    "May require more counter space"
+                ]
+            },
+            "useCases": [
+                "Frying foods like french fries, chicken wings, and vegetables with less oil.",
+                "Baking small batches of pastries or snacks.",
+                "Reheating leftovers.",
+                "Roasting meats and vegetables.",
+                "Preparing quick and easy meals for individuals or small families."
+            ],
+            "valueForMoney": "The value for money is generally good, considering the health benefits, convenience, and ease of use. However, compare features and pricing with alternative models to determine the best value.",
+            "buyingRecommendation": "Recommended for those prioritizing healthier cooking methods and convenience. Consider the size of your household and cooking needs to ensure the 5-quart capacity is sufficient. Compare features and read reviews before purchasing.",
+            "alternativeOptions": [
+                {
+                    "product": "Air Fryer Oven Combo",
+                    "description": "Offers additional features like baking, broiling, and toasting.",
+                    "considerations": "More versatile, may take up more counter space, can be more expensive."
+                },
+                {
+                    "product": "Smaller Air Fryers (less than 5qt)",
+                    "description": "Suitable for individuals or couples.",
+                    "considerations": "Less cooking capacity, more compact design, typically more affordable."
+                },
+                {
+                    "product": "Larger Air Fryers (greater than 5qt)",
+                    "description": "For larger families or those who cook large quantities.",
+                    "considerations": "More cooking capacity, may require more counter space, more expensive."
+                }
+            ]
+        }
+    }
+]
